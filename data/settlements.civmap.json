@@ -34,7 +34,7 @@
       },
       "zoom_styles": {
         "-6": {
-          "label": "$nickname",
+          "label": "$alias",
           "opacity": {
             "default": 0,
             "feature_key": "Zoom Visibility",
@@ -65,6 +65,6 @@
     }
   ],
   "features": [
-    {"id":"a922a91a-ef9f-4366-916a-5651dc690f33","collectionId":"62da2fc3-60ba-49a4-898b-817051e47d9d","x":150,"z":-5650,"wiki":"https://wiki.bunker.kiwi/wiki/Coalition_of_Gordax","name":"Coalition Base"}
+    {"alias":"C.O.B","id":"a922a91a-ef9f-4366-916a-5651dc690f33","collectionId":"62da2fc3-60ba-49a4-898b-817051e47d9d","x":150,"z":-5650,"wiki":"https://wiki.bunker.kiwi/wiki/Coalition_of_Gordax","name":"Coalition Base"}
   ]
 }

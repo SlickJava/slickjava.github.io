@@ -65,7 +65,6 @@
     }
   ],
   "features": [
-    {"name": "Icenia", "x": -1600, "z": -1300, "nation": "Icenia", "contact": "/u/ChrisChrispie", "image": "https://cdn.discordapp.com/attachments/558071874161082370/612487830391750657/First-Render-Icenia-Final-1.jpg", "discord": "https://discord.gg/M45tMym", "wiki": "https://civclassic.miraheze.org/wiki/Icenia", "symbol": "https://cdn.discordapp.com/icons/558071874161082368/9725459b100bc511498066ef5c91d4ef.png", "Zoom Visibility": 1, "nickname": "Icenia", "id": "6bbb3d65-15fa-444c-a71a-6fc020ffab62"},
-   ]
-    
+    {"name": "Icenia", "x": -1600, "z": -1300, "nation": "Icenia", "contact": "/u/ChrisChrispie", "image": "https://cdn.discordapp.com/attachments/558071874161082370/612487830391750657/First-Render-Icenia-Final-1.jpg", "discord": "https://discord.gg/M45tMym", "wiki": "https://civclassic.miraheze.org/wiki/Icenia", "symbol": "https://cdn.discordapp.com/icons/558071874161082368/9725459b100bc511498066ef5c91d4ef.png", "Zoom Visibility": 1, "nickname": "Icenia", "id": "6bbb3d65-15fa-444c-a71a-6fc020ffab62"}
+  ]
 }

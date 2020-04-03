@@ -20,14 +20,13 @@
               "categories": {"1": "$alias","2": "","3": ""}
             }
           },
-          "zoom_styles": {
-            "-5": {
-              "label": {
-                "default": "",
-                "feature_key": "weight",
-                "categories": {"1": "$alias","2": "$alias","3": ""}
-              }
-            },
+          "-5": {
+            "label": {
+              "default": "",
+              "feature_key": "weight",
+              "categories": {"1": "$alias","2": "$alias","3": ""}
+            }
+          },
           "-4": {
             "label": {
               "default": "",

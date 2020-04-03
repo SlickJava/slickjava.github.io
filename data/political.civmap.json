@@ -5,7 +5,11 @@
   "source": "https://slickjava.github.io/data/political.civmap.json",
   "presentations": [
     {
-        "name": "Sovereignty"
+        "name": "Sovereignty",
+        "style_base": {
+          "label": "$name",
+          "opacity": 0.8
+        }
     }
   ],
   "features": [

@@ -34,7 +34,7 @@
       },
       "zoom_styles": {
         "-6": {
-          "label": "$alias",
+          "label": "",
           "opacity": {
             "default": 0,
             "feature_key": "weight",
@@ -69,7 +69,7 @@
           "label": {
             "default": "",
             "feature_key": "weight",
-            "categories": {"1": "$name","2": "$alias","3": ""}
+            "categories": {"1": "$name","2": "$alias","3": "$alias"}
           },
           "opacity": {
             "default": 0,

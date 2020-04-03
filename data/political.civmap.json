@@ -20,7 +20,7 @@
             "label": "$alias"
           },
           "-3": {
-            "label": "$name"
+            "label": "$alias"
           },
           "-1": {"opacity": 0.6}
         }

@@ -65,5 +65,6 @@
     }
   ],
   "features": [
+    {"id":"a922a91a-ef9f-4366-916a-5651dc690f33","collectionId":"civmap:collection/user","x":150,"z":-5650,"wiki":"https://wiki.bunker.kiwi/wiki/Coalition_of_Gordax","name":"Coalition Base"}
   ]
 }

@@ -13,7 +13,7 @@
           "categories": {"1": "#ffcc77","2": "#ffcc77"}
         },
         "icon_size": {
-          "default": 12,
+          "default": 8,
           "feature_key": "weight",
           "categories": {"1": 16,"2": 16}
         },

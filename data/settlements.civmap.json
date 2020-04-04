@@ -13,9 +13,9 @@
           "categories": {"1": "#ffcc77","2": "#ffcc77"}
         },
         "icon_size": {
-          "default": 8,
+          "default": 10,
           "feature_key": "weight",
-          "categories": {"1": 16,"2": 16}
+          "categories": {"1": 12,"2": 10}
         },
         "icon": "circle",
         "label": "$name",
@@ -95,6 +95,6 @@
   ],
   "features": [
     {"weight":"1","alias":"C.O.B","id":"a922a91a-ef9f-4366-916a-5651dc690f33","collectionId":"62da2fc3-60ba-49a4-898b-817051e47d9d","x":150,"z":-5650,"wiki":"https://wiki.bunker.kiwi/wiki/Coalition_of_Gordax","name":"Coalition Base"},
-    {"id":"94a1a0dd-c5ce-4ec6-bfb9-6ed77ef92e89","collectionId":"civmap:collection/user","x":487,"z":-6120,"name":"Fluffies","alias":"FLUFF","wiki":"https://wiki.bunker.kiwi/wiki/Fluffies","priority":"1"}
+    {"id":"94a1a0dd-c5ce-4ec6-bfb9-6ed77ef92e89","collectionId":"civmap:collection/user","x":487,"z":-6120,"name":"Fluffies","alias":"FLUFF","wiki":"https://wiki.bunker.kiwi/wiki/Fluffies","weight":"1"}
   ]
 }

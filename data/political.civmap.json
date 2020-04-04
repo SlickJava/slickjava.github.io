@@ -24,7 +24,7 @@
             "label": {
               "default": "",
               "feature_key": "weight",
-              "categories": {"1": "$alias","2": "$alias","3": ""}
+              "categories": {"1": "$alias","2": "","3": ""}
             }
           },
           "-4": {

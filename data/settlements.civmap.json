@@ -101,9 +101,11 @@
     {"weight":"1","alias":"C.O.B","id":"a922a91a-ef9f-4366-916a-5651dc690f33","collectionId":"62da2fc3-60ba-49a4-898b-817051e47d9d","x":150,"z":-5650,"wiki":"https://wiki.bunker.kiwi/wiki/Coalition_of_Gordax","name":"Coalition Base"},
     {"id":"94a1a0dd-c5ce-4ec6-bfb9-6ed77ef92e89","collectionId":"62da2fc3-60ba-49a4-898b-817051e47d9d","x":487,"z":-6120,"name":"Fluffies","alias":"FLUFF","wiki":"https://wiki.bunker.kiwi/wiki/Fluffies","weight":"1"},
     {"id":"5a0547b3-da4d-4a58-861d-e8991a722fb5","collectionId":"62da2fc3-60ba-49a4-898b-817051e47d9d","x":242,"z":-18,"name":"Oltanis","alias":"OLT","wiki":"https://wiki.bunker.kiwi/wiki/Oltanis","weight":"1"},
-    {"id":"f159ce50-650c-4c92-81de-b244a59aaaf8","collectionId":"62da2fc3-60ba-49a4-898b-817051e47d9d","x":-512,"z":36,"name":"KiwiEngineer","alias":"KE","weight":"2"},
+    {"id":"f159ce50-650c-4c92-81de-b244a59aaaf8","collectionId":"62da2fc3-60ba-49a4-898b-817051e47d9d","x":-512,"z":36,"name":"KiwiEngineer","alias":"KE","weight":"3"},
     {"id":"8a5a9ed7-023a-4708-8b9a-ddfde09dfbc0","collectionId":"62da2fc3-60ba-49a4-898b-817051e47d9d","x":4828,"z":-1858,"name":"The City of Bruh","alias":"Bruh","wiki":"https://wiki.bunker.kiwi/wiki/The_State_of_Bruh","weight":"2"},
     {"id":"17d25914-e8b5-4963-878c-409e9a00f947","collectionId":"62da2fc3-60ba-49a4-898b-817051e47d9d","x":528,"z":-255,"weight":"2","wiki":"https://wiki.bunker.kiwi/wiki/Diota","alias":"Di","name":"Diota"},
-    {"id":"91c28d92-74a3-4453-b226-7583cdf22031","collectionId":"62da2fc3-60ba-49a4-898b-817051e47d9d","x":336,"z":-428,"name":"Ironfall","weight":"2","alias":"IF","wiki":"https://wiki.bunker.kiwi/wiki/Ironfall"}
+    {"id":"91c28d92-74a3-4453-b226-7583cdf22031","collectionId":"62da2fc3-60ba-49a4-898b-817051e47d9d","x":336,"z":-428,"name":"Ironfall","weight":"2","alias":"IF","wiki":"https://wiki.bunker.kiwi/wiki/Ironfall"},
+    {"id":"f1650fa0-c52f-4234-a5e6-78ce584c3842","collectionId":"62da2fc3-60ba-49a4-898b-817051e47d9d","x":1060,"z":-5710,"name":"Call","alias":"Call","wiki":"https://wiki.bunker.kiwi/wiki/Call","weight":"2"},
+    {"id":"ba9462bc-9075-4a32-87d2-afad8ab13ed8","collectionId":"62da2fc3-60ba-49a4-898b-817051e47d9d","x":-2098,"z":2716,"weight":"1","name":"The Democratic State of Ohio","alias":"DSO","wiki":"https://wiki.bunker.kiwi/wiki/The_Democratic_State_Of_Ohio_(DSO)"}
   ]
 }

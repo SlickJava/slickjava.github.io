@@ -15,7 +15,7 @@
         "icon_size": {
           "default": 10,
           "feature_key": "weight",
-          "categories": {"1": 12,"2": 10}
+          "categories": {"1": 12,"2": 9}
         },
         "icon": "circle",
         "label": "$name",
@@ -100,6 +100,6 @@
     {"id":"f159ce50-650c-4c92-81de-b244a59aaaf8","collectionId":"62da2fc3-60ba-49a4-898b-817051e47d9d","x":-512,"z":36,"name":"KiwiEngineer","alias":"KE","weight":"2"},
     {"id":"8a5a9ed7-023a-4708-8b9a-ddfde09dfbc0","collectionId":"62da2fc3-60ba-49a4-898b-817051e47d9d","x":4828,"z":-1858,"name":"The City of Bruh","alias":"Bruh","wiki":"https://wiki.bunker.kiwi/wiki/The_State_of_Bruh","weight":"2"},
     {"id":"17d25914-e8b5-4963-878c-409e9a00f947","collectionId":"62da2fc3-60ba-49a4-898b-817051e47d9d","x":528,"z":-255,"weight":"2","wiki":"https://wiki.bunker.kiwi/wiki/Diota","alias":"Di","name":"Diota"},
-    {"id":"91c28d92-74a3-4453-b226-7583cdf22031","collectionId":"62da2fc3-60ba-49a4-898b-817051e47d9d","x":336,"z":-428,"name":"Ironfall","weight":"1","alias":"IF","wiki":"https://wiki.bunker.kiwi/wiki/Ironfall"}
+    {"id":"91c28d92-74a3-4453-b226-7583cdf22031","collectionId":"62da2fc3-60ba-49a4-898b-817051e47d9d","x":336,"z":-428,"name":"Ironfall","weight":"2","alias":"IF","wiki":"https://wiki.bunker.kiwi/wiki/Ironfall"}
   ]
 }

@@ -10,7 +10,7 @@
         "color": {
           "default": "#888888",
           "feature_key": "weight",
-          "categories": {"1": "#ffcc77","2": "#808588", "3":"#808588"}
+          "categories": {"1": "#ffcc77","2": "#ffcc77", "3":"#b4babf"}
         },
         "icon_size": {
           "default": 7,

@@ -28,7 +28,7 @@
         "stroke_width": {
           "default": 1,
           "feature_key": "weight",
-          "categories": {"1": 2,"2": 2}
+          "categories": {"1": 2,"2": 1.4, "3": 0.9}
         }
       },
       "style_highlight": {

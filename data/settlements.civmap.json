@@ -109,6 +109,7 @@
     {"id":"ba9462bc-9075-4a32-87d2-afad8ab13ed8","collectionId":"62da2fc3-60ba-49a4-898b-817051e47d9d","x":-2098,"z":2716,"weight":"1","name":"The Democratic State of Ohio","alias":"DSO","wiki":"https://wiki.bunker.kiwi/wiki/The_Democratic_State_Of_Ohio_(DSO)"},
     {"id":"04b7bc9e-0fe6-4afd-8b63-2c58b777f704","collectionId":"62da2fc3-60ba-49a4-898b-817051e47d9d","x":-6620,"z":-2491,"name":"Fyke","alias":"Fyke","wiki":"https://wiki.bunker.kiwi/wiki/Fyke","weight":"2"},
     {"id":"17ca3993-4fd5-42c0-8775-64922f2b1432","collectionId":"62da2fc3-60ba-49a4-898b-817051e47d9d","x":6081,"z":2383,"name":"Peaceburg","alias":"Peaceburg","wiki":"http://wiki.bunker.kiwi/wiki/Peaceburg","weight":"2"},
-    {"id":"56830919-a449-4138-8cca-3158d80f4299","collectionId":"62da2fc3-60ba-49a4-898b-817051e47d9d","x":734,"z":-1141,"name":"Cherii's Base","alias":"CB","weight":"3"}
+    {"id":"56830919-a449-4138-8cca-3158d80f4299","collectionId":"62da2fc3-60ba-49a4-898b-817051e47d9d","x":734,"z":-1141,"name":"Cherii's Base","alias":"CB","weight":"3"},
+    {"id":"0455c259-cae8-4176-b84a-4f5530e9367d","collectionId":"civmap:collection/user","x":-2620,"z":-213,"name":"West Gogland","wiki":"https://wiki.bunker.kiwi/wiki/West_Gogland","alias":"WGL","weight":"2"}
   ]
 }

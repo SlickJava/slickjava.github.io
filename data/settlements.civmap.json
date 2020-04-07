@@ -110,6 +110,7 @@
     {"id":"17ca3993-4fd5-42c0-8775-64922f2b1432","collectionId":"62da2fc3-60ba-49a4-898b-817051e47d9d","x":6081,"z":2383,"name":"Peaceburg","alias":"Peaceburg","wiki":"http://wiki.bunker.kiwi/wiki/Peaceburg","weight":"2"},
     {"id":"56830919-a449-4138-8cca-3158d80f4299","collectionId":"62da2fc3-60ba-49a4-898b-817051e47d9d","x":734,"z":-1141,"name":"Cherii's Base","alias":"CB","weight":"3"},
     {"id":"0455c259-cae8-4176-b84a-4f5530e9367d","collectionId":"civmap:collection/user","x":-2620,"z":-213,"name":"West Gogland","wiki":"https://wiki.bunker.kiwi/wiki/West_Gogland","alias":"WGL","weight":"2"},
-    {"id":"95a172da-852c-4fa7-8dd7-be8aabe35a38","collectionId":"civmap:collection/user","x":2841,"z":1840,"name":"Dwarves Under The Ocean","alias":"DWARF","wiki":"https://wiki.bunker.kiwi/wiki/Dwarves_Under_The_Ocean","weight":"2"}
+    {"id":"95a172da-852c-4fa7-8dd7-be8aabe35a38","collectionId":"civmap:collection/user","x":2841,"z":1840,"name":"Dwarves Under The Ocean","alias":"DWARF","wiki":"https://wiki.bunker.kiwi/wiki/Dwarves_Under_The_Ocean","weight":"2"},
+    {"id":"098690a8-0b7c-475a-b2cd-509f19052663","collectionId":"civmap:collection/user","x":-1539,"z":-224,"name":"Slave Traders of the West","alias":"STOW","weight":"2","wiki":"https://wiki.bunker.kiwi/wiki/Slave_Traders_of_the_West"}
   ]
 }

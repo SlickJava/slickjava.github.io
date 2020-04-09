@@ -1,11 +1,11 @@
 {
-  "name":"Mainland",
+  "name":"Papa Whenua",
   "id":"f1e57024-6906-427b-8eb8-93f648ce1b3f",
   "info": {"version": "3.0.0-beta3", "last_update": 1584933722},
   "source": "https://slickjava.github.io/data/mainland.civmap.json",
   "presentations": [
     {
-        "name": "Mainland",
+        "name": "Papa Whenua",
         "style_base": {
           "label": "$name",
           "color": "$color",

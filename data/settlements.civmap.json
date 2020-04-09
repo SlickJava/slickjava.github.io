@@ -112,6 +112,7 @@
     {"id":"0455c259-cae8-4176-b84a-4f5530e9367d","collectionId":"civmap:collection/user","x":-2620,"z":-213,"name":"West Gogland","wiki":"https://wiki.bunker.kiwi/wiki/West_Gogland","alias":"WGL","weight":"2"},
     {"id":"95a172da-852c-4fa7-8dd7-be8aabe35a38","collectionId":"civmap:collection/user","x":2841,"z":1840,"name":"Dwarves Under The Ocean","alias":"DWARF","wiki":"https://wiki.bunker.kiwi/wiki/Dwarves_Under_The_Ocean","weight":"2"},
     {"id":"098690a8-0b7c-475a-b2cd-509f19052663","collectionId":"civmap:collection/user","x":-1539,"z":-224,"name":"Slave Traders of the West","alias":"STOW","weight":"2","wiki":"https://wiki.bunker.kiwi/wiki/Slave_Traders_of_the_West"},
-    {"id":"83b3fa23-7b58-47a6-9907-8e17ca228895","collectionId":"civmap:collection/user","x":2877,"z":2576,"name":"Friends Of The World","alias":"FOTW","weight":"2"}
+    {"id":"83b3fa23-7b58-47a6-9907-8e17ca228895","collectionId":"civmap:collection/user","x":2877,"z":2576,"name":"Friends Of The World","alias":"FOTW","weight":"2"},
+    {"id":"bbea8fd2-e574-4d13-9249-36e8932d2563","collectionId":"civmap:collection/user","x":-2243,"z":-219,"name":"East Gogland","alias":"EGL","wiki":"https://wiki.bunker.kiwi/wiki/Gogland","weight":"1"}
   ]
 }

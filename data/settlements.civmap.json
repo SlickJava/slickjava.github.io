@@ -32,9 +32,9 @@
         }
       },
       "style_highlight": {
-        "opacity": 1,
+        "opacity": 0.6,
         "stroke_color": "#ff0000",
-        "stroke_width": 2
+        "stroke_width": 1
       },
       "zoom_styles": {
         "-6": {

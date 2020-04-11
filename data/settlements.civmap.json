@@ -146,6 +146,6 @@
     {"id":"bbea8fd2-e574-4d13-9249-36e8932d2563","collectionId":"civmap:collection/user","x":-2243,"z":-219,"name":"East Gogland","alias":"EGL","wiki":"https://wiki.bunker.kiwi/wiki/Gogland","weight":"2"},
     {"id":"ee746ed8-60f3-4526-9d97-30fd61691276","collectionId":"civmap:collection/user","x":1779,"z":-768,"wiki":"https://wiki.bunker.kiwi/wiki/TunezNZ_Isolation_Island","name":"TunezNZ Isolation Island","alias":"TuNZ Island","weight":"2"},
     {"id":"d1861573-e45a-40fe-8b0a-4a925db34790","collectionId":"civmap:collection/user","x":-2448,"z":1071,"weight":"2","name":"Potatofall","alias":"PP","wiki":"https://wiki.bunker.kiwi/wiki/Communist_Islands_of_PP"},
-    {"id":"686bdbe4-dd68-4bed-91d0-fa3e4b308a4b","collectionId":"civmap:collection/user","x":602,"z":-608,"weight":"1","wiki":"https://wiki.bunker.kiwi/wiki/The_Citadel","alias":"The Citadel","name":"The Citadel"}
+    {"id":"686bdbe4-dd68-4bed-91d0-fa3e4b308a4b","collectionId":"civmap:collection/user","x":602,"z":-608,"weight":"1","wiki":"https://wiki.bunker.kiwi/wiki/The_Citadel","alias":"CTDL","name":"The Citadel"}
   ]
 }

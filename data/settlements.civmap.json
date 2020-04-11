@@ -46,7 +46,7 @@
           "opacity": {
             "default": 0,
             "feature_key": "weight",
-            "categories": {"1": 0, "2": 0, "3": 0}
+            "categories": {"1": 0.6, "2": 0, "3": 0}
           },
           "icon_size": {
             "default": 7,

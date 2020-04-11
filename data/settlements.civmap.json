@@ -58,7 +58,7 @@
           "label": {
             "default": "",
             "feature_key": "weight",
-            "categories": {"1": "$name","2": "","3": ""}
+            "categories": {"1": "$alias","2": "","3": ""}
           },
           "opacity": {
             "default": 0,

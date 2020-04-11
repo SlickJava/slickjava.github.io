@@ -115,6 +115,7 @@
     {"id":"83b3fa23-7b58-47a6-9907-8e17ca228895","collectionId":"civmap:collection/user","x":2877,"z":2576,"name":"Friends Of The World","alias":"FOTW","weight":"2"},
     {"id":"6c2e4f05-9372-4af4-8412-537f2a6be7e3","collectionId":"civmap:collection/user","x":141,"z":959,"name":"Duck and Icey's Bee Farm","alias":"BEE","wiki":"https://wiki.bunker.kiwi/wiki/Duck_and_Icey%27s_Bee_Farm","weight":"3"},
     {"id":"bbea8fd2-e574-4d13-9249-36e8932d2563","collectionId":"civmap:collection/user","x":-2243,"z":-219,"name":"East Gogland","alias":"EGL","wiki":"https://wiki.bunker.kiwi/wiki/Gogland","weight":"1"},
-    {"id":"ee746ed8-60f3-4526-9d97-30fd61691276","collectionId":"civmap:collection/user","x":1779,"z":-768,"wiki":"https://wiki.bunker.kiwi/wiki/TunezNZ_Isolation_Island","name":"TunezNZ Isolation Island","alias":"TuNZ Island","weight":"1"}
+    {"id":"ee746ed8-60f3-4526-9d97-30fd61691276","collectionId":"civmap:collection/user","x":1779,"z":-768,"wiki":"https://wiki.bunker.kiwi/wiki/TunezNZ_Isolation_Island","name":"TunezNZ Isolation Island","alias":"TuNZ Island","weight":"1"},
+    {"id":"d1861573-e45a-40fe-8b0a-4a925db34790","collectionId":"civmap:collection/user","x":-2448,"z":1071,"weight":"1","name":"Potatofall","alias":"PP","wiki":"https://wiki.bunker.kiwi/wiki/Communist_Islands_of_PP"}
   ]
 }

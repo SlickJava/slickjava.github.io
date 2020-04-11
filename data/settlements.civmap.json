@@ -38,7 +38,11 @@
       },
       "zoom_styles": {
         "-6": {
-          "label": "",
+          "label": {
+            "default": "",
+            "feature_key": "weight",
+            "categories": {"1": "$alias","2": "","3": ""}
+          },
           "opacity": {
             "default": 0,
             "feature_key": "weight",
@@ -54,7 +58,7 @@
           "label": {
             "default": "",
             "feature_key": "weight",
-            "categories": {"1": "","2": "","3": ""}
+            "categories": {"1": "$alias","2": "","3": ""}
           },
           "opacity": {
             "default": 0,

@@ -68,7 +68,7 @@
           "icon_size": {
             "default": 7,
             "feature_key": "weight",
-            "categories": {"1": 11,"2": 8, "3": 5}
+            "categories": {"1": 10,"2": 8, "3": 5}
           }
         },
         "-4": {
@@ -85,7 +85,7 @@
           "icon_size": {
             "default": 7,
             "feature_key": "weight",
-            "categories": {"1": 12,"2": 8, "3": 5}
+            "categories": {"1": 11,"2": 8, "3": 5}
           }
         },
         "-3": {

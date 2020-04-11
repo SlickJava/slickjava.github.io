@@ -15,7 +15,7 @@
         "icon_size": {
           "default": 7,
           "feature_key": "weight",
-          "categories": {"1": 14,"2": 9, "3": 6}
+          "categories": {"1": 13,"2": 9, "3": 6}
         },
         "icon": "circle",
         "label": "$name",
@@ -47,7 +47,7 @@
           "icon_size": {
             "default": 7,
             "feature_key": "weight",
-            "categories": {"1": 14,"2": 6, "3": 3}
+            "categories": {"1": 13,"2": 6, "3": 3}
           }
         },
         "-5": {
@@ -64,7 +64,7 @@
           "icon_size": {
             "default": 7,
             "feature_key": "weight",
-            "categories": {"1": 14,"2": 6, "3": 3}
+            "categories": {"1": 13,"2": 6, "3": 3}
           }
         },
         "-4": {
@@ -81,7 +81,7 @@
           "icon_size": {
             "default": 7,
             "feature_key": "weight",
-            "categories": {"1": 14,"2": 7, "3": 4}
+            "categories": {"1": 13,"2": 7, "3": 4}
           }
         },
         "-3": {
@@ -98,7 +98,7 @@
           "icon_size": {
             "default": 7,
             "feature_key": "weight",
-            "categories": {"1": 14,"2": 8, "3": 5}
+            "categories": {"1": 13,"2": 8, "3": 5}
           }
         },
         "-2": {
@@ -115,7 +115,7 @@
           "icon_size": {
             "default": 7,
             "feature_key": "weight",
-            "categories": {"1": 14,"2": 9, "3": 6}
+            "categories": {"1": 13,"2": 9, "3": 6}
           }
         },
         "-1": {"opacity": 1}

@@ -98,7 +98,7 @@
     }
   ],
   "features": [
-    {"weight":"1","alias":"C.O.B","id":"a922a91a-ef9f-4366-916a-5651dc690f33","collectionId":"62da2fc3-60ba-49a4-898b-817051e47d9d","x":150,"z":-5650,"wiki":"https://wiki.bunker.kiwi/wiki/Coalition_of_Gordax","name":"Coalition Base"},
+    {"weight":"2","alias":"C.O.B","id":"a922a91a-ef9f-4366-916a-5651dc690f33","collectionId":"62da2fc3-60ba-49a4-898b-817051e47d9d","x":150,"z":-5650,"wiki":"https://wiki.bunker.kiwi/wiki/Coalition_of_Gordax","name":"Coalition Base"},
     {"id":"94a1a0dd-c5ce-4ec6-bfb9-6ed77ef92e89","collectionId":"62da2fc3-60ba-49a4-898b-817051e47d9d","x":487,"z":-6120,"name":"Fluffies","alias":"FLUFF","wiki":"https://wiki.bunker.kiwi/wiki/Fluffies","weight":"2"},
     {"id":"5a0547b3-da4d-4a58-861d-e8991a722fb5","collectionId":"62da2fc3-60ba-49a4-898b-817051e47d9d","x":242,"z":-18,"name":"Oltanis","alias":"OLT","wiki":"https://wiki.bunker.kiwi/wiki/Oltanis","weight":"2"},
     {"id":"f159ce50-650c-4c92-81de-b244a59aaaf8","collectionId":"62da2fc3-60ba-49a4-898b-817051e47d9d","x":-512,"z":36,"name":"KiwiEngineer","alias":"KE","weight":"3"},
@@ -114,8 +114,8 @@
     {"id":"098690a8-0b7c-475a-b2cd-509f19052663","collectionId":"civmap:collection/user","x":-1539,"z":-224,"name":"Slave Traders of the West","alias":"STOW","weight":"2","wiki":"https://wiki.bunker.kiwi/wiki/Slave_Traders_of_the_West"},
     {"id":"83b3fa23-7b58-47a6-9907-8e17ca228895","collectionId":"civmap:collection/user","x":2877,"z":2576,"name":"Friends Of The World","alias":"FOTW","weight":"2"},
     {"id":"6c2e4f05-9372-4af4-8412-537f2a6be7e3","collectionId":"civmap:collection/user","x":141,"z":959,"name":"Duck and Icey's Bee Farm","alias":"BEE","wiki":"https://wiki.bunker.kiwi/wiki/Duck_and_Icey%27s_Bee_Farm","weight":"3"},
-    {"id":"bbea8fd2-e574-4d13-9249-36e8932d2563","collectionId":"civmap:collection/user","x":-2243,"z":-219,"name":"East Gogland","alias":"EGL","wiki":"https://wiki.bunker.kiwi/wiki/Gogland","weight":"1"},
-    {"id":"ee746ed8-60f3-4526-9d97-30fd61691276","collectionId":"civmap:collection/user","x":1779,"z":-768,"wiki":"https://wiki.bunker.kiwi/wiki/TunezNZ_Isolation_Island","name":"TunezNZ Isolation Island","alias":"TuNZ Island","weight":"1"},
-    {"id":"d1861573-e45a-40fe-8b0a-4a925db34790","collectionId":"civmap:collection/user","x":-2448,"z":1071,"weight":"1","name":"Potatofall","alias":"PP","wiki":"https://wiki.bunker.kiwi/wiki/Communist_Islands_of_PP"}
+    {"id":"bbea8fd2-e574-4d13-9249-36e8932d2563","collectionId":"civmap:collection/user","x":-2243,"z":-219,"name":"East Gogland","alias":"EGL","wiki":"https://wiki.bunker.kiwi/wiki/Gogland","weight":"2"},
+    {"id":"ee746ed8-60f3-4526-9d97-30fd61691276","collectionId":"civmap:collection/user","x":1779,"z":-768,"wiki":"https://wiki.bunker.kiwi/wiki/TunezNZ_Isolation_Island","name":"TunezNZ Isolation Island","alias":"TuNZ Island","weight":"2"},
+    {"id":"d1861573-e45a-40fe-8b0a-4a925db34790","collectionId":"civmap:collection/user","x":-2448,"z":1071,"weight":"2","name":"Potatofall","alias":"PP","wiki":"https://wiki.bunker.kiwi/wiki/Communist_Islands_of_PP"}
   ]
 }
